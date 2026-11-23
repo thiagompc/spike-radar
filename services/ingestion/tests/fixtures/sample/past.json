@@ -1,0 +1,777 @@
+[
+  {
+    "videogame_version": null,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139455,
+          "name": "Victory No Limits",
+          "location": "CN",
+          "slug": "victory-no-limits",
+          "modified_at": "2026-11-11T10:54:46Z",
+          "acronym": null,
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139455/92px_vlg_allmode_2026.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139455/92px_vlg_allmode_2026.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139589,
+          "name": "SEC",
+          "location": "",
+          "slug": "sec",
+          "modified_at": "2026-11-12T13:40:57Z",
+          "acronym": null,
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139589/573px_second_e_sport_club_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139589/573px_second_e_sport_club_darkmode.png"
+        }
+      }
+    ],
+    "winner": {
+      "id": 139455,
+      "name": "Victory No Limits",
+      "location": "CN",
+      "slug": "victory-no-limits",
+      "modified_at": "2026-11-11T10:54:46Z",
+      "acronym": null,
+      "image_url": "https://cdn-api.pandascore.co/images/team/image/139455/92px_vlg_allmode_2026.png",
+      "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139455/92px_vlg_allmode_2026.png"
+    },
+    "end_at": "2026-11-20T13:11:07Z",
+    "slug": "victory-no-limits-vs-sec-2026-11-20",
+    "videogame_title": null,
+    "serie_id": 11202,
+    "winner_id": 139455,
+    "draw": false,
+    "tournament_id": 22442,
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "results": [
+      { "score": 2, "team_id": 139455 },
+      { "score": 1, "team_id": 139589 }
+    ],
+    "original_scheduled_at": "2026-11-20T11:00:00Z",
+    "rescheduled": true,
+    "status": "finished",
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    },
+    "forfeit": false,
+    "games": [
+      {
+        "complete": true,
+        "id": 53021,
+        "position": 1,
+        "status": "finished",
+        "length": 2710,
+        "finished": true,
+        "match_id": 1805901,
+        "begin_at": "2026-11-20T10:02:36Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T10:47:46Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139455, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53022,
+        "position": 2,
+        "status": "finished",
+        "length": 3162,
+        "finished": true,
+        "match_id": 1805901,
+        "begin_at": "2026-11-20T10:59:00Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T11:51:43Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139589, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53023,
+        "position": 3,
+        "status": "finished",
+        "length": 4031,
+        "finished": true,
+        "match_id": 1805901,
+        "begin_at": "2026-11-20T12:03:56Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T13:11:08Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139455, "type": "Team" }
+      }
+    ],
+    "streams_list": [
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=9459454",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/9459454"
+      }
+    ],
+    "tournament": {
+      "id": 22442,
+      "name": "Group A",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-13T06:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-22T15:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
+      "region": "ASIA",
+      "serie_id": 11202,
+      "modified_at": "2026-11-12T19:55:51Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "number_of_games": 3,
+    "detailed_stats": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "winner_type": "Team",
+    "scheduled_at": "2026-11-20T10:00:00Z",
+    "match_type": "best_of",
+    "id": 1805901,
+    "name": "Victory No Limits vs SEC",
+    "modified_at": "2026-11-20T13:11:08Z",
+    "begin_at": "2026-11-20T10:02:36Z",
+    "league_id": 5585,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "game_advantage": null
+  },
+  {
+    "videogame_version": null,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 137493,
+          "name": "Any Questions Gaming",
+          "location": "",
+          "slug": "any-questions-gaming",
+          "modified_at": "2026-11-18T19:43:06Z",
+          "acronym": "AQ",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137493/285px_any_questions_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137493/285px_any_questions_darkmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 128540,
+          "name": "FunPlus Phoenix",
+          "location": "CN",
+          "slug": "funplus-phoenix-valorant",
+          "modified_at": "2026-11-18T19:41:45Z",
+          "acronym": "FPX",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/128540/900px_fpx_logo_2021.png",
+          "dark_mode_image_url": null
+        }
+      }
+    ],
+    "winner": {
+      "id": 137493,
+      "name": "Any Questions Gaming",
+      "location": "",
+      "slug": "any-questions-gaming",
+      "modified_at": "2026-11-18T19:43:06Z",
+      "acronym": "AQ",
+      "image_url": "https://cdn-api.pandascore.co/images/team/image/137493/285px_any_questions_lightmode.png",
+      "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137493/285px_any_questions_darkmode.png"
+    },
+    "end_at": "2026-11-20T11:19:37Z",
+    "slug": "any-questions-gaming-vs-funplus-phoenix-2026-11-20",
+    "videogame_title": null,
+    "serie_id": 11202,
+    "winner_id": 137493,
+    "draw": false,
+    "tournament_id": 22443,
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "results": [
+      { "score": 2, "team_id": 137493 },
+      { "score": 0, "team_id": 128540 }
+    ],
+    "original_scheduled_at": "2026-11-20T11:00:00Z",
+    "rescheduled": true,
+    "status": "finished",
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    },
+    "forfeit": false,
+    "games": [
+      {
+        "complete": true,
+        "id": 53105,
+        "position": 1,
+        "status": "finished",
+        "length": 2896,
+        "finished": true,
+        "match_id": 1805934,
+        "begin_at": "2026-11-20T09:42:26Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T10:30:42Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 137493, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53106,
+        "position": 2,
+        "status": "finished",
+        "length": 2258,
+        "finished": true,
+        "match_id": 1805934,
+        "begin_at": "2026-11-20T10:41:59Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T11:19:37Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 137493, "type": "Team" }
+      }
+    ],
+    "streams_list": [
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1742430269",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/1742430269"
+      }
+    ],
+    "tournament": {
+      "id": 22443,
+      "name": "Group B",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-group-b",
+      "region": "ASIA",
+      "serie_id": 11202,
+      "modified_at": "2026-11-13T17:39:33Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "number_of_games": 3,
+    "detailed_stats": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "winner_type": "Team",
+    "scheduled_at": "2026-11-20T09:40:00Z",
+    "match_type": "best_of",
+    "id": 1805934,
+    "name": "AQ vs FPX",
+    "modified_at": "2026-11-20T11:19:38Z",
+    "begin_at": "2026-11-20T09:42:26Z",
+    "league_id": 5585,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "game_advantage": null
+  },
+  {
+    "videogame_version": null,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 133825,
+          "name": "TEC Esports",
+          "location": "CN",
+          "slug": "tec-esports",
+          "modified_at": "2026-11-15T13:20:33Z",
+          "acronym": "TEC",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133825/190px_tec_esports_allmode.png",
+          "dark_mode_image_url": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139027,
+          "name": "A Team",
+          "location": "CN",
+          "slug": "a-team",
+          "modified_at": "2026-11-11T10:54:45Z",
+          "acronym": "AT",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139027/a_team_darkmode.png"
+        }
+      }
+    ],
+    "winner": {
+      "id": 139027,
+      "name": "A Team",
+      "location": "CN",
+      "slug": "a-team",
+      "modified_at": "2026-11-11T10:54:45Z",
+      "acronym": "AT",
+      "image_url": "https://cdn-api.pandascore.co/images/team/image/139027/a_team_lightmode.png",
+      "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139027/a_team_darkmode.png"
+    },
+    "end_at": "2026-11-20T09:41:03Z",
+    "slug": "tec-esports-vs-a-team-2026-11-20",
+    "videogame_title": null,
+    "serie_id": 11202,
+    "winner_id": 139027,
+    "draw": false,
+    "tournament_id": 22442,
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "results": [
+      { "score": 0, "team_id": 133825 },
+      { "score": 2, "team_id": 139027 }
+    ],
+    "original_scheduled_at": "2026-11-20T08:30:00Z",
+    "rescheduled": true,
+    "status": "finished",
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    },
+    "forfeit": false,
+    "games": [
+      {
+        "complete": true,
+        "id": 53018,
+        "position": 1,
+        "status": "finished",
+        "length": 1787,
+        "finished": true,
+        "match_id": 1805900,
+        "begin_at": "2026-11-20T08:13:45Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T08:43:33Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139027, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53019,
+        "position": 2,
+        "status": "finished",
+        "length": 2677,
+        "finished": true,
+        "match_id": 1805900,
+        "begin_at": "2026-11-20T08:56:26Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T09:41:04Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139027, "type": "Team" }
+      }
+    ],
+    "streams_list": [
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=9459454",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/9459454"
+      }
+    ],
+    "tournament": {
+      "id": 22442,
+      "name": "Group A",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-13T06:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-22T15:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-group-a",
+      "region": "ASIA",
+      "serie_id": 11202,
+      "modified_at": "2026-11-12T19:55:51Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "number_of_games": 3,
+    "detailed_stats": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "winner_type": "Team",
+    "scheduled_at": "2026-11-20T08:10:00Z",
+    "match_type": "best_of",
+    "id": 1805900,
+    "name": "TEC vs AT",
+    "modified_at": "2026-11-20T09:41:04Z",
+    "begin_at": "2026-11-20T08:13:45Z",
+    "league_id": 5585,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "game_advantage": null
+  },
+  {
+    "videogame_version": null,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139591,
+          "name": "Young Gaming",
+          "location": "CN",
+          "slug": "young-gaming",
+          "modified_at": "2026-11-12T19:58:12Z",
+          "acronym": "YG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139591/young_gaming_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139591/young_gaming_darkmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139593,
+          "name": "Hyper Tide Gaming",
+          "location": "CN",
+          "slug": "hyper-tide-gaming",
+          "modified_at": "2026-11-12T19:58:01Z",
+          "acronym": "HTG",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139593/600px_hyper_tide_gaming_allmode.png",
+          "dark_mode_image_url": null
+        }
+      }
+    ],
+    "winner": {
+      "id": 139591,
+      "name": "Young Gaming",
+      "location": "CN",
+      "slug": "young-gaming",
+      "modified_at": "2026-11-12T19:58:12Z",
+      "acronym": "YG",
+      "image_url": "https://cdn-api.pandascore.co/images/team/image/139591/young_gaming_lightmode.png",
+      "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139591/young_gaming_darkmode.png"
+    },
+    "end_at": "2026-11-20T09:15:35Z",
+    "slug": "young-gaming-vs-hyper-tide-gaming-2026-11-20",
+    "videogame_title": null,
+    "serie_id": 11202,
+    "winner_id": 139591,
+    "draw": false,
+    "tournament_id": 22443,
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "results": [
+      { "score": 2, "team_id": 139591 },
+      { "score": 0, "team_id": 139593 }
+    ],
+    "original_scheduled_at": "2026-11-20T08:30:00Z",
+    "rescheduled": true,
+    "status": "finished",
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    },
+    "forfeit": false,
+    "games": [
+      {
+        "complete": true,
+        "id": 53102,
+        "position": 1,
+        "status": "finished",
+        "length": 2181,
+        "finished": true,
+        "match_id": 1805933,
+        "begin_at": "2026-11-20T07:51:10Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T08:27:31Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139591, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53103,
+        "position": 2,
+        "status": "finished",
+        "length": 2487,
+        "finished": true,
+        "match_id": 1805933,
+        "begin_at": "2026-11-20T08:34:08Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T09:15:35Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 139591, "type": "Team" }
+      }
+    ],
+    "streams_list": [
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1742430269",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/1742430269"
+      }
+    ],
+    "tournament": {
+      "id": 22443,
+      "name": "Group B",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-group-b",
+      "region": "ASIA",
+      "serie_id": 11202,
+      "modified_at": "2026-11-13T17:39:33Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "number_of_games": 3,
+    "detailed_stats": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "winner_type": "Team",
+    "scheduled_at": "2026-11-20T07:50:00Z",
+    "match_type": "best_of",
+    "id": 1805933,
+    "name": "YG vs HTG",
+    "modified_at": "2026-11-20T09:15:36Z",
+    "begin_at": "2026-11-20T07:51:10Z",
+    "league_id": 5585,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "game_advantage": null
+  },
+  {
+    "videogame_version": null,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 133831,
+          "name": "LGD Gaming",
+          "location": "CN",
+          "slug": "lgd-gaming-valorant",
+          "modified_at": "2026-11-11T11:02:58Z",
+          "acronym": "LGD",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/133831/600px_lgd_gaming_december_2019_lightmode.png",
+          "dark_mode_image_url": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 138700,
+          "name": "Unsettled Resentment",
+          "location": "CN",
+          "slug": "unsettled-resentment-valorant",
+          "modified_at": "2026-11-11T15:00:14Z",
+          "acronym": "UR",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png",
+          "dark_mode_image_url": null
+        }
+      }
+    ],
+    "winner": {
+      "id": 138700,
+      "name": "Unsettled Resentment",
+      "location": "CN",
+      "slug": "unsettled-resentment-valorant",
+      "modified_at": "2026-11-11T15:00:14Z",
+      "acronym": "UR",
+      "image_url": "https://cdn-api.pandascore.co/images/team/image/138700/775px_unsettled_resentment_2026_allmode.png",
+      "dark_mode_image_url": null
+    },
+    "end_at": "2026-11-20T07:34:42Z",
+    "slug": "lgd-gaming-vs-unsettled-resentment-2026-11-20",
+    "videogame_title": null,
+    "serie_id": 11202,
+    "winner_id": 138700,
+    "draw": false,
+    "tournament_id": 22443,
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "results": [
+      { "score": 0, "team_id": 133831 },
+      { "score": 2, "team_id": 138700 }
+    ],
+    "original_scheduled_at": "2026-11-20T06:00:00Z",
+    "rescheduled": false,
+    "status": "finished",
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    },
+    "forfeit": false,
+    "games": [
+      {
+        "complete": true,
+        "id": 53099,
+        "position": 1,
+        "status": "finished",
+        "length": 2622,
+        "finished": true,
+        "match_id": 1805932,
+        "begin_at": "2026-11-20T06:07:00Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T06:50:43Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 138700, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53100,
+        "position": 2,
+        "status": "finished",
+        "length": 2263,
+        "finished": true,
+        "match_id": 1805932,
+        "begin_at": "2026-11-20T06:56:59Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-20T07:34:43Z",
+        "forfeit": false,
+        "winner_type": "Team",
+        "winner": { "id": 138700, "type": "Team" }
+      }
+    ],
+    "streams_list": [
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1742430269",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/1742430269"
+      }
+    ],
+    "tournament": {
+      "id": 22443,
+      "name": "Group B",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-group-b",
+      "region": "ASIA",
+      "serie_id": 11202,
+      "modified_at": "2026-11-13T17:39:33Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "number_of_games": 3,
+    "detailed_stats": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "winner_type": "Team",
+    "scheduled_at": "2026-11-20T06:00:00Z",
+    "match_type": "best_of",
+    "id": 1805932,
+    "name": "LGD vs UR",
+    "modified_at": "2026-11-20T07:44:16Z",
+    "begin_at": "2026-11-20T06:07:00Z",
+    "league_id": 5585,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T22:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "game_advantage": null
+  }
+]

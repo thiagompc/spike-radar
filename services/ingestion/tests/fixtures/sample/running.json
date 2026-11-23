@@ -1,0 +1,325 @@
+[
+  {
+    "modified_at": "2026-11-23T14:27:03Z",
+    "slug": "any-questions-gaming-vs-sec-2026-11-23",
+    "begin_at": "2026-11-23T12:40:22Z",
+    "results": [
+      { "team_id": 137493, "score": 1 },
+      { "team_id": 139589, "score": 1 }
+    ],
+    "detailed_stats": false,
+    "scheduled_at": "2026-11-23T12:40:00Z",
+    "forfeit": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "games": [
+      {
+        "complete": true,
+        "id": 53317,
+        "position": 1,
+        "status": "finished",
+        "length": 2975,
+        "finished": true,
+        "begin_at": "2026-11-23T12:40:22Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-23T13:29:58Z",
+        "forfeit": false,
+        "match_id": 1829555,
+        "winner_type": "Team",
+        "winner": { "id": 139589, "type": "Team" }
+      },
+      {
+        "complete": true,
+        "id": 53318,
+        "position": 2,
+        "status": "finished",
+        "length": 2259,
+        "finished": true,
+        "begin_at": "2026-11-23T13:38:03Z",
+        "detailed_stats": false,
+        "end_at": "2026-11-23T14:15:43Z",
+        "forfeit": false,
+        "match_id": 1829555,
+        "winner_type": "Team",
+        "winner": { "id": 137493, "type": "Team" }
+      },
+      {
+        "complete": false,
+        "id": 53319,
+        "position": 3,
+        "status": "running",
+        "length": null,
+        "finished": false,
+        "begin_at": "2026-11-23T14:27:03Z",
+        "detailed_stats": false,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1829555,
+        "winner_type": "Team",
+        "winner": { "id": null, "type": "Team" }
+      }
+    ],
+    "number_of_games": 3,
+    "tournament": {
+      "id": 22509,
+      "name": "Playoffs",
+      "type": "online",
+      "country": "CN",
+      "begin_at": "2026-11-23T05:00:00Z",
+      "detailed_stats": false,
+      "end_at": "2026-11-28T14:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026-playoffs",
+      "serie_id": 11202,
+      "region": "ASIA",
+      "modified_at": "2026-11-23T08:27:39Z",
+      "league_id": 5585,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": true,
+      "live_supported": false
+    },
+    "status": "running",
+    "winner": null,
+    "original_scheduled_at": "2026-11-23T11:00:00Z",
+    "match_type": "best_of",
+    "winner_type": "Team",
+    "league_id": 5585,
+    "draw": false,
+    "rescheduled": true,
+    "winner_id": null,
+    "videogame_version": { "name": "13.09", "current": true },
+    "end_at": null,
+    "id": 1829555,
+    "name": "Upper bracket quarterfinal 3: AQ vs SEC",
+    "tournament_id": 22509,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 137493,
+          "name": "Any Questions Gaming",
+          "location": "",
+          "slug": "any-questions-gaming",
+          "modified_at": "2026-11-22T15:29:23Z",
+          "acronym": "AQ",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/137493/285px_any_questions_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137493/285px_any_questions_darkmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139589,
+          "name": "SEC",
+          "location": "",
+          "slug": "sec",
+          "modified_at": "2026-11-22T15:29:24Z",
+          "acronym": null,
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139589/573px_second_e_sport_club_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139589/573px_second_e_sport_club_darkmode.png"
+        }
+      }
+    ],
+    "videogame_title": null,
+    "serie": {
+      "id": 11202,
+      "name": "Split Omega: Pro Division",
+      "year": 2026,
+      "begin_at": "2026-11-12T23:00:00Z",
+      "end_at": "2026-11-28T14:00:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-china-national-tournament-split-omega-pro-division-2026",
+      "modified_at": "2026-11-23T08:27:39Z",
+      "league_id": 5585,
+      "season": null,
+      "full_name": "Split Omega: Pro Division 2026"
+    },
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "serie_id": 11202,
+    "streams_list": [
+      {
+        "main": false,
+        "language": "zh",
+        "embed_url": null,
+        "official": false,
+        "raw_url": "https://www.douyu.com/9822023?dyshid=0-a738edce34c2b34e188ad76b00041701"
+      },
+      {
+        "main": true,
+        "language": "zh",
+        "embed_url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=30016267",
+        "official": true,
+        "raw_url": "https://live.bilibili.com/30016267"
+      }
+    ],
+    "game_advantage": null,
+    "league": {
+      "id": 5585,
+      "name": "China National Tournament",
+      "url": null,
+      "slug": "valorant-china-national-tournament",
+      "modified_at": "2026-11-11T11:10:18Z",
+      "image_url": null
+    }
+  },
+  {
+    "modified_at": "2026-11-23T14:45:38Z",
+    "slug": "zexar-esports-vs-sign-esports-2026-11-23",
+    "begin_at": "2026-11-23T14:39:52Z",
+    "results": [
+      { "team_id": 139654, "score": 0 },
+      { "team_id": 138705, "score": 0 }
+    ],
+    "detailed_stats": true,
+    "scheduled_at": "2026-11-23T14:40:00Z",
+    "forfeit": false,
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "games": [
+      {
+        "complete": false,
+        "id": 53490,
+        "position": 1,
+        "status": "running",
+        "length": null,
+        "finished": false,
+        "begin_at": "2026-11-23T14:39:52Z",
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1831482,
+        "winner_type": "Team",
+        "winner": { "id": null, "type": "Team" }
+      },
+      {
+        "complete": false,
+        "id": 53491,
+        "position": 2,
+        "status": "not_started",
+        "length": null,
+        "finished": false,
+        "begin_at": null,
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1831482,
+        "winner_type": "Team",
+        "winner": { "id": null, "type": "Team" }
+      },
+      {
+        "complete": false,
+        "id": 53492,
+        "position": 3,
+        "status": "not_started",
+        "length": null,
+        "finished": false,
+        "begin_at": null,
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1831482,
+        "winner_type": "Team",
+        "winner": { "id": null, "type": "Team" }
+      }
+    ],
+    "number_of_games": 3,
+    "tournament": {
+      "id": 22522,
+      "name": "Playoffs",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-23T12:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2026-11-29T16:30:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027-playoffs",
+      "serie_id": 11235,
+      "region": "ASIA",
+      "modified_at": "2026-11-23T14:53:54Z",
+      "league_id": 4531,
+      "prizepool": null,
+      "tier": "d",
+      "has_bracket": true,
+      "live_supported": false
+    },
+    "status": "running",
+    "winner": null,
+    "original_scheduled_at": "2026-11-23T14:30:00Z",
+    "match_type": "best_of",
+    "winner_type": "Team",
+    "league_id": 4531,
+    "draw": false,
+    "rescheduled": true,
+    "winner_id": null,
+    "videogame_version": null,
+    "end_at": null,
+    "id": 1831482,
+    "name": "Upper Bracket Quarterfinals: ZEX vs SIGN Esports",
+    "tournament_id": 22522,
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139654,
+          "name": "Zexar Esports",
+          "location": "IN",
+          "slug": "zexar-esports",
+          "modified_at": "2026-11-23T14:33:13Z",
+          "acronym": "ZEX",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139654/zexar_esports_2026_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139654/zexar_esports_2026_darkmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 138705,
+          "name": "SIGN Esports",
+          "location": "IN",
+          "slug": "sign-esports-valorant",
+          "modified_at": "2026-11-23T14:53:08Z",
+          "acronym": null,
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/138705/800px_sign_esports_2026_allmode.png",
+          "dark_mode_image_url": null
+        }
+      }
+    ],
+    "videogame_title": null,
+    "serie": {
+      "id": 11235,
+      "name": "Pacific Kickoff: South Asia - Qualifier",
+      "year": 2027,
+      "begin_at": "2026-11-23T12:00:00Z",
+      "end_at": "2026-11-29T16:30:00Z",
+      "winner_id": null,
+      "winner_type": "Team",
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-pacific-kickoff-south-asia-qualifier-2027",
+      "modified_at": "2026-11-23T14:31:58Z",
+      "league_id": 4531,
+      "season": null,
+      "full_name": "Pacific Kickoff: South Asia - Qualifier 2027"
+    },
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "serie_id": 11235,
+    "streams_list": [
+      {
+        "main": true,
+        "language": "en",
+        "embed_url": "https://www.youtube.com/embed/06rmx38XoaE",
+        "official": true,
+        "raw_url": "https://www.youtube.com/watch?v=06rmx38XoaE"
+      }
+    ],
+    "game_advantage": null,
+    "league": {
+      "id": 4531,
+      "name": "VCT",
+      "url": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1",
+      "modified_at": "2023-02-13T19:07:55Z",
+      "image_url": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png"
+    }
+  }
+]
