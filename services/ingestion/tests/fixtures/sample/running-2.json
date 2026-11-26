@@ -1,1 +1,325 @@
-[]
+[
+  {
+    "winner": null,
+    "slug": "tramite-vs-el-legado-2026-11-23",
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "serie_id": 11230,
+    "match_type": "best_of",
+    "serie": {
+      "id": 11230,
+      "name": "Americas Kickoff: LATAM South - Qualifier",
+      "year": 2027,
+      "begin_at": "2026-11-21T19:00:00Z",
+      "end_at": "2026-12-05T23:00:00Z",
+      "winner_id": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-south-qualifier-2027",
+      "winner_type": "Team",
+      "modified_at": "2026-11-22T09:38:32Z",
+      "league_id": 4531,
+      "season": null,
+      "full_name": "Americas Kickoff: LATAM South - Qualifier 2027"
+    },
+    "forfeit": false,
+    "rescheduled": false,
+    "streams_list": [
+      {
+        "main": true,
+        "language": "es",
+        "embed_url": "https://player.twitch.tv/?channel=luixmi12",
+        "official": true,
+        "raw_url": "https://www.twitch.tv/luixmi12"
+      }
+    ],
+    "league": {
+      "id": 4531,
+      "name": "VCT",
+      "url": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1",
+      "modified_at": "2023-02-13T19:07:55Z",
+      "image_url": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png"
+    },
+    "league_id": 4531,
+    "number_of_games": 3,
+    "winner_id": null,
+    "detailed_stats": true,
+    "status": "running",
+    "videogame_version": { "name": "13.10", "current": true },
+    "original_scheduled_at": "2026-11-23T19:00:00Z",
+    "games": [
+      {
+        "complete": false,
+        "id": 53302,
+        "position": 1,
+        "status": "finished",
+        "length": 2014,
+        "finished": true,
+        "begin_at": "2026-11-23T19:03:03Z",
+        "detailed_stats": true,
+        "end_at": "2026-11-23T19:36:37Z",
+        "forfeit": false,
+        "match_id": 1828509,
+        "winner": { "id": 139647, "type": "Team" },
+        "winner_type": "Team"
+      },
+      {
+        "complete": false,
+        "id": 53303,
+        "position": 2,
+        "status": "running",
+        "length": null,
+        "finished": false,
+        "begin_at": "2026-11-23T19:47:27Z",
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1828509,
+        "winner": { "id": null, "type": "Team" },
+        "winner_type": "Team"
+      },
+      {
+        "complete": false,
+        "id": 53304,
+        "position": 3,
+        "status": "not_started",
+        "length": null,
+        "finished": false,
+        "begin_at": null,
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1828509,
+        "winner": { "id": null, "type": "Team" },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "results": [
+      { "team_id": 139648, "score": 0 },
+      { "team_id": 139647, "score": 1 }
+    ],
+    "begin_at": "2026-11-23T19:03:03Z",
+    "modified_at": "2026-11-23T19:51:59Z",
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139648,
+          "name": "TRAMITE",
+          "location": "CL",
+          "slug": "tramite",
+          "modified_at": "2026-11-22T10:01:40Z",
+          "acronym": "TME",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139648/tramite_allmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139648/tramite_allmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139647,
+          "name": "EL LEGADO",
+          "location": "CL",
+          "slug": "el-legado",
+          "modified_at": "2026-11-22T09:54:12Z",
+          "acronym": "ELL",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139647/379px_el_legado_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139647/379px_el_legado_darkmode.png"
+        }
+      }
+    ],
+    "end_at": null,
+    "id": 1828509,
+    "name": "Round 2: TME vs ELL",
+    "videogame_title": null,
+    "tournament": {
+      "id": 22505,
+      "name": "Group Stage",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-21T19:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2026-11-26T00:30:00Z",
+      "winner_id": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-south-qualifier-2027-group-stage",
+      "winner_type": "Team",
+      "serie_id": 11230,
+      "region": null,
+      "modified_at": "2026-11-23T15:32:21Z",
+      "league_id": 4531,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "scheduled_at": "2026-11-23T19:00:00Z",
+    "game_advantage": null,
+    "winner_type": "Team",
+    "tournament_id": 22505
+  },
+  {
+    "winner": null,
+    "slug": "university-war-vs-arg-mix-2026-11-23",
+    "videogame": { "id": 26, "name": "Valorant", "slug": "valorant" },
+    "live": { "supported": false, "url": null, "opens_at": null },
+    "serie_id": 11230,
+    "match_type": "best_of",
+    "serie": {
+      "id": 11230,
+      "name": "Americas Kickoff: LATAM South - Qualifier",
+      "year": 2027,
+      "begin_at": "2026-11-21T19:00:00Z",
+      "end_at": "2026-12-05T23:00:00Z",
+      "winner_id": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-south-qualifier-2027",
+      "winner_type": "Team",
+      "modified_at": "2026-11-22T09:38:32Z",
+      "league_id": 4531,
+      "season": null,
+      "full_name": "Americas Kickoff: LATAM South - Qualifier 2027"
+    },
+    "forfeit": false,
+    "rescheduled": false,
+    "streams_list": [
+      {
+        "main": false,
+        "language": "es",
+        "embed_url": "https://www.youtube.com/embed/y4YBoQBF9GY",
+        "official": false,
+        "raw_url": "https://www.youtube.com/watch?v=y4YBoQBF9GY"
+      },
+      {
+        "main": true,
+        "language": "es",
+        "embed_url": "https://player.twitch.tv/?channel=valorant_la",
+        "official": true,
+        "raw_url": "https://www.twitch.tv/valorant_la"
+      }
+    ],
+    "league": {
+      "id": 4531,
+      "name": "VCT",
+      "url": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1",
+      "modified_at": "2023-02-13T19:07:55Z",
+      "image_url": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png"
+    },
+    "league_id": 4531,
+    "number_of_games": 3,
+    "winner_id": null,
+    "detailed_stats": true,
+    "status": "running",
+    "videogame_version": null,
+    "original_scheduled_at": "2026-11-23T19:00:00Z",
+    "games": [
+      {
+        "complete": false,
+        "id": 53299,
+        "position": 1,
+        "status": "finished",
+        "length": 3030,
+        "finished": true,
+        "begin_at": "2026-11-23T19:03:17Z",
+        "detailed_stats": true,
+        "end_at": "2026-11-23T19:53:48Z",
+        "forfeit": false,
+        "match_id": 1828508,
+        "winner": { "id": 138481, "type": "Team" },
+        "winner_type": "Team"
+      },
+      {
+        "complete": false,
+        "id": 53300,
+        "position": 2,
+        "status": "not_started",
+        "length": null,
+        "finished": false,
+        "begin_at": null,
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1828508,
+        "winner": { "id": null, "type": "Team" },
+        "winner_type": "Team"
+      },
+      {
+        "complete": false,
+        "id": 53301,
+        "position": 3,
+        "status": "not_started",
+        "length": null,
+        "finished": false,
+        "begin_at": null,
+        "detailed_stats": true,
+        "end_at": null,
+        "forfeit": false,
+        "match_id": 1828508,
+        "winner": { "id": null, "type": "Team" },
+        "winner_type": "Team"
+      }
+    ],
+    "draw": false,
+    "results": [
+      { "team_id": 138481, "score": 1 },
+      { "team_id": 139645, "score": 0 }
+    ],
+    "begin_at": "2026-11-23T19:03:17Z",
+    "modified_at": "2026-11-23T19:53:48Z",
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 138481,
+          "name": "University War",
+          "location": "CL",
+          "slug": "university-war",
+          "modified_at": "2026-11-22T09:40:43Z",
+          "acronym": "UW",
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/138481/110px_university_war_logo_allmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138481/110px_university_war_logo_allmode.png"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "id": 139645,
+          "name": "ARG.MIX",
+          "location": "AR",
+          "slug": "arg-mix",
+          "modified_at": "2026-11-22T10:38:39Z",
+          "acronym": null,
+          "image_url": "https://cdn-api.pandascore.co/images/team/image/139645/argmix_lightmode.png",
+          "dark_mode_image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/139645/argmix_darkmode.png"
+        }
+      }
+    ],
+    "end_at": null,
+    "id": 1828508,
+    "name": "Round 2: UW vs ARG.MIX",
+    "videogame_title": null,
+    "tournament": {
+      "id": 22505,
+      "name": "Group Stage",
+      "type": "online",
+      "country": null,
+      "begin_at": "2026-11-21T19:00:00Z",
+      "detailed_stats": true,
+      "end_at": "2026-11-26T00:30:00Z",
+      "winner_id": null,
+      "slug": "valorant-vct-2021-north-america-stage-1-challengers-1-americas-kickoff-latam-south-qualifier-2027-group-stage",
+      "winner_type": "Team",
+      "serie_id": 11230,
+      "region": null,
+      "modified_at": "2026-11-23T15:32:21Z",
+      "league_id": 4531,
+      "prizepool": null,
+      "tier": "c",
+      "has_bracket": false,
+      "live_supported": false
+    },
+    "scheduled_at": "2026-11-23T19:00:00Z",
+    "game_advantage": null,
+    "winner_type": "Team",
+    "tournament_id": 22505
+  }
+]
